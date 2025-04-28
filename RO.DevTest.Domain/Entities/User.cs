@@ -1,4 +1,6 @@
-﻿namespace RO.DevTest.Domain.Entities
+﻿using RO.DevTest.Domain.Abstract;
+
+namespace RO.DevTest.Domain.Entities
 {
     public class Client : BaseEntity
     {
